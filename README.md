@@ -5,53 +5,58 @@
 
 官方网址：https://www.harmonyos.com/
 
-### 1、完整开发流程
-
-<img src="\笔记图片\1631257995126.png" alt="1631257995126" style="zoom:57%;" />
+<!-- ### 1、完整开发流程
+![1631257995126](https://user-images.githubusercontent.com/74289276/138595268-8a901c00-7c15-477e-a19c-40e120661336.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595268-8a901c00-7c15-477e-a19c-40e120661336.png" alt="1631257995126" style="zoom:25%;" />
 
 ### 2、开发工具下载和安装
 
 ####  [开发工具下载](https://developer.harmonyos.com/cn/develop/deveco-studio#download )
 
 #### 开发工具安装：
-
-![](.\笔记图片\QQ截图20210910152207.png)
-
-![](.\笔记图片\QQ截图20210910152831.png)
+![QQ截图20210910152207](https://user-images.githubusercontent.com/74289276/138595357-80f361ef-3971-410f-9d14-1bae64ee37bc.png)
+![QQ截图20210910152831](https://user-images.githubusercontent.com/74289276/138595399-72fa5038-08fd-4b26-9236-71a9ab7643df.png)
 
 然后依次点击 ***Next***  >>>***Install***，等待进度条读满，最后点击***Finish***即可完成安装
 
 安装完成后，在桌面点击快捷启动图标打开开发工具
+![QQ截图20210910154034](https://user-images.githubusercontent.com/74289276/138595428-e3590fa3-cb95-4d61-907b-6d63c88c9b66.png)
+<!-- ![](\笔记图片\QQ截图20210910154034.png) -->
 
-![](\笔记图片\QQ截图20210910154034.png)
+<!-- ![QQ截图20210910154222](https://user-images.githubusercontent.com/74289276/138595445-4f48b445-07c3-4423-96e8-75dfaf72d96e.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595445-4f48b445-07c3-4423-96e8-75dfaf72d96e.png" style="zoom:80%;" />
 
-<img src="\笔记图片\QQ截图20210910154222.png" style="zoom:80%;" />
+<!-- ![1631259855753](https://user-images.githubusercontent.com/74289276/138595467-1e8fc321-60d9-461b-9342-5d28ec393023.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595467-1e8fc321-60d9-461b-9342-5d28ec393023.png" style="zoom: 67%;" />
 
-<img src=".\笔记图片\1631259855753.png" style="zoom: 67%;" />
+<!-- ![QQ截图20210910154806](https://user-images.githubusercontent.com/74289276/138595517-e9d26c14-3b90-4764-b26e-d2e8f05dbc28.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595517-e9d26c14-3b90-4764-b26e-d2e8f05dbc28.png" style="zoom: 67%;" />
 
-<img src="\笔记图片\QQ截图20210910154806.png" style="zoom: 67%;" />
+<!-- ![QQ截图20210910155325](https://user-images.githubusercontent.com/74289276/138595574-d8548b84-b043-4778-ae40-e124c10c74a6.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595574-d8548b84-b043-4778-ae40-e124c10c74a6.png" style="zoom:67%;" />
 
-<img src="\笔记图片\QQ截图20210910155325.png" style="zoom:67%;" />
+<!-- ![QQ截图20210910155513](https://user-images.githubusercontent.com/74289276/138595595-2603ea8e-e1a5-4b3d-a1f5-072e8914e03f.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595595-2603ea8e-e1a5-4b3d-a1f5-072e8914e03f.png" style="zoom:67%;" />
 
-<img src="\笔记图片\QQ截图20210910155513.png" style="zoom:67%;" />
+<!-- ![QQ截图20210910155715](https://user-images.githubusercontent.com/74289276/138595616-844985d7-e52d-4b7d-8d1a-4a8b5edceadf.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595616-844985d7-e52d-4b7d-8d1a-4a8b5edceadf.png" style="zoom:67%;" />
 
-<img src="\笔记图片\QQ截图20210910155715.png" style="zoom:67%;" />
-
-<img src="\笔记图片\QQ截图20210910155907.png" style="zoom:57%;" />
+<!-- ![QQ截图20210910155907](https://user-images.githubusercontent.com/74289276/138595632-3d565dd5-d087-4622-8e0f-6d009021959e.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595632-3d565dd5-d087-4622-8e0f-6d009021959e.png" style="zoom:57%;" />
 
 检查SDK安装情况
-
-<img src="\笔记图片\QQ截图20210910160254.png" style="zoom:67%;" />
+<!-- ![QQ截图20210910160254](https://user-images.githubusercontent.com/74289276/138595652-c5a31890-7fd5-4a83-ac42-948c74e2fc23.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595652-c5a31890-7fd5-4a83-ac42-948c74e2fc23.png" style="zoom:67%;" />
 
 到此开发工具的安装已经完成
 
 ### 3、项目结构
-
-<img src="\笔记图片\QQ截图20210910160811.png" style="zoom:50%;" />
+<!-- ![QQ截图20210910160811](https://user-images.githubusercontent.com/74289276/138595676-74a246f1-56ea-4b0b-98a8-e7b2dd73ab1c.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595676-74a246f1-56ea-4b0b-98a8-e7b2dd73ab1c.png" style="zoom:50%;" />
 
 目录结构
-
-<img src="\笔记图片\QQ截图20210910161212.png" style="zoom: 67%;" />
+<!-- ![QQ截图20210910161212](https://user-images.githubusercontent.com/74289276/138595707-7953cce6-c4f0-402d-8e8e-6bafd952c2e6.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595707-7953cce6-c4f0-402d-8e8e-6bafd952c2e6.png" style="zoom: 67%;" />
 
 ### 4、鸿蒙入门应用
 
@@ -62,26 +67,27 @@
 ##### 如何运行项目
 
 - 登录账号
-
-  <img src="笔记图片\QQ截图20210910162106.png" style="zoom: 40%;" />
+<!-- ![QQ截图20210910162106](https://user-images.githubusercontent.com/74289276/138595730-fa86dcfe-15b3-4c1e-b5ad-47b4ee43a623.png) -->
+  <img src="https://user-images.githubusercontent.com/74289276/138595730-fa86dcfe-15b3-4c1e-b5ad-47b4ee43a623.png" style="zoom: 40%;" />
 
 - 选择并开启模拟器
-
-  <img src="\笔记图片\QQ截图20210910162253.png" style="zoom:50%;" />
+<!-- ![QQ截图20210910162253](https://user-images.githubusercontent.com/74289276/138595747-dfae7551-426a-49e2-8556-a26d6eb8e8bf.png) -->
+  <img src="https://user-images.githubusercontent.com/74289276/138595747-dfae7551-426a-49e2-8556-a26d6eb8e8bf.png" style="zoom:50%;" />
 
 - 运行项目
-
-  <img src="\笔记图片\QQ截图20210910162421.png" style="zoom:50%;" />
+<!-- ![QQ截图20210910162421](https://user-images.githubusercontent.com/74289276/138595761-8fb5016d-4a3d-4011-88df-cadb830b9db8.png) -->
+  <img src="https://user-images.githubusercontent.com/74289276/138595761-8fb5016d-4a3d-4011-88df-cadb830b9db8.png" style="zoom:50%;" />
 
 ##### 页面中的包含关系
-
-<img src="\笔记图片\QQ截图20210910162758.png" style="zoom:50%;" />
+<!-- ![QQ截图20210910162758](https://user-images.githubusercontent.com/74289276/138595781-c56f7ccf-f3ef-49c6-9ee3-b32ce8beec9a.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595781-c56f7ccf-f3ef-49c6-9ee3-b32ce8beec9a.png" style="zoom:50%;" />
 
 - 一个App里面包含多个Hap包，每个Hap包都对应一个App的功能，可以单独下载，类似于微服务
+<!-- ![QQ截图20210910162927](https://user-images.githubusercontent.com/74289276/138595806-00288f8a-1271-4d59-b87c-9bb0afca14f8.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595806-00288f8a-1271-4d59-b87c-9bb0afca14f8.png" style="zoom:50%;" />
 
-<img src="\笔记图片\QQ截图20210910162927.png" style="zoom:50%;" />
-
-<img src=".\笔记图片\QQ截图20210910163218.png" style="zoom:50%;" />
+<!-- ![QQ截图20210910163218](https://user-images.githubusercontent.com/74289276/138595826-e9aca9f8-6054-4fc0-95fd-cbf3a4c09113.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595826-e9aca9f8-6054-4fc0-95fd-cbf3a4c09113.png" style="zoom:50%;" />
 
 **包含关系:**
 	最外面是: Ability
@@ -89,8 +95,8 @@
 	子页面中有要展示的内容:图片，文本等信息
 
 ##### 学习项目中的配置文件：config.json
-
-<img src="\笔记图片\QQ截图20210910164007.png" style="zoom:70%;" />
+<!-- ![QQ截图20210910164007](https://user-images.githubusercontent.com/74289276/138595865-1321abf0-4a17-4dec-90f3-cc693bb296d7.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595865-1321abf0-4a17-4dec-90f3-cc693bb296d7.png" style="zoom:70%;" />
 
 ```json
 {
@@ -142,14 +148,14 @@
 ```
 
 ##### 了解程序的运行过程
-
-<img src=".\笔记图片\QQ截图20210910170531.png" style="zoom: 80%;" />
+<!-- ![QQ截图20210910170531](https://user-images.githubusercontent.com/74289276/138595922-70d07989-c81d-425b-a94e-00417cf89ee5.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595922-70d07989-c81d-425b-a94e-00417cf89ee5.png" style="zoom: 80%;" />
 
 #### 第二个入门程序：页面跳转
 
 鸿蒙UI中，提供了两种编写布局的方式：
-
-<img src="\笔记图片\QQ截图20210910201121.png" style="zoom:80%;" />
+<!-- ![QQ截图20210910201121](https://user-images.githubusercontent.com/74289276/138595937-6a463608-8beb-40d9-9821-1a1e172f7860.png) -->
+<img src="https://user-images.githubusercontent.com/74289276/138595937-6a463608-8beb-40d9-9821-1a1e172f7860.png" style="zoom:80%;" />
 
 实验步骤：
 
@@ -189,8 +195,8 @@ ability_main.xml的布局文件
 ##### 2、编写第二个页面（文本）
 
 新建第二个页面
-
-![](\笔记图片\QQ截图20210910202144.png)
+![QQ截图20210910202144](https://user-images.githubusercontent.com/74289276/138595950-7e4344ac-49cf-46e8-8c0a-8fa0b148b958.png)
+<!-- ![](\笔记图片\QQ截图20210910202144.png) -->
 
 在第二个页面的MainAbility2Slice.java代码中编写布局
 
